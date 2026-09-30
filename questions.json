@@ -1,0 +1,46 @@
+{
+  "role": "MEP (Mechanical, Electrical, Plumbing) — Shanti Niketan Project",
+  "instructions": "Answer each question with a short voice note (30–90 seconds is fine). Speak naturally, as if talking to a colleague.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Please state your full name, your total years of experience in MEP execution, and your current role and company."
+    },
+    {
+      "id": 2,
+      "text": "Tell us about the luxury residential project(s) you have worked on. Please name the project, the client or developer, the locality/city, and your specific role and responsibilities."
+    },
+    {
+      "id": 3,
+      "text": "If you have not worked directly on a standalone luxury residence, tell us about any five-star hotel or ultra-luxury apartment project you have worked on, and what your MEP scope of work was there."
+    },
+    {
+      "id": 4,
+      "text": "Walk us through how you coordinate MEP services with architects and interior designers on a high-end project, especially when finishes or false ceilings conflict with duct or pipe routing."
+    },
+    {
+      "id": 5,
+      "text": "Describe a time a vendor delayed delivery or installation and it threatened your project timeline. What did you do?"
+    },
+    {
+      "id": 6,
+      "text": "How large a team have you directly managed on site, and who did you report to?"
+    },
+    {
+      "id": 7,
+      "text": "What is your current CTC, and what is your expected CTC for this role?"
+    },
+    {
+      "id": 8,
+      "text": "What is your notice period, and how soon could you join if selected?"
+    },
+    {
+      "id": 9,
+      "text": "This role is based in Delhi NCR. Are you currently based here, or willing to relocate? Please mention your current location."
+    },
+    {
+      "id": 10,
+      "text": "Why are you looking to move from your current organization?"
+    }
+  ]
+}
